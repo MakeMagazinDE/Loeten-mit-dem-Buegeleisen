@@ -22,7 +22,7 @@ https://github.com/adafruit/Adafruit_SSD1306 (OLED-Monochrom-Display)
 
 Tragen Sie in der Arduino-IDE unter "Voreinstellungen" bei "Zusätzliche Boardverwalter-URLs" folgenden Link ein: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
-Statt des aufgeklebten Sensors kann auch ein gekapselter Sensor mit Schraubgewinde verwendet werden (siehe Bezugsquelle). Es ist dann an geeigneter Stelle eine Gewindebohrung in der Bügeleisen-Sohle anzubringen (vorsicht, nicht versehentlich das Heizelement beschädigen).
+Statt des aufgeklebten Sensors kann auch ein gekapselter Sensor mit Schraubgewinde verwendet werden (siehe Bezugsquelle). Es ist dann an geeigneter Stelle eine Gewindebohrung in der Bügeleisen-Sohle anzubringen (Vorsicht, nicht versehentlich das Heizelement beschädigen).
 
 **Bitte beachten Sie unbedingt die Aufbau- und Sicherheitshinweise im Artikel!**
 
