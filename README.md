@@ -10,3 +10,10 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 ![Picture](https://github.com/MakeMagazinDE/Loeten-mit-dem-Buegeleisen/blob/master/aufm.JPG)
 
+Das Steuerungsprogramm *SolderingIron.ino* wurde mit der Arduino-IDE für das Mikrocontroller-Board Wemos Mini D1 (ESP8266) erstellt. Die Arduino-IDE benötigt folgende Erweiterungen:
+
+https://github.com/esp8266/Arduino (ESP8266-Erweiterung, auch über Board-Manager)
+
+https://github.com/adafruit/MAX6675-library (Temperatursensor für Thermoelemente Typ K)
+
+https://github.com/adafruit/Adafruit_SSD1306 (OLED-Monochrom-Display)
