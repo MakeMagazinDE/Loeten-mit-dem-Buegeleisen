@@ -25,6 +25,7 @@ https://github.com/adafruit/Adafruit_SSD1306 (OLED-Monochrom-Display)
     C1 100n
     SSR Solid-State-Relais SSR-10 DA, SSR-25 DA oder ähnlich (min. 250V, 10A)
     OLED 0,96"-OLED-Display mit SSD1306 
+    MAX6675 Temperatursensor-IC auf Breakout-Board
     
     
 [Passendes OLED-Display von Reichelt](https://www.reichelt.de/entwicklerboards-display-0-96-oled-display-ssd1306-debo-oled2-0-96-p266107.html)
@@ -35,4 +36,4 @@ https://github.com/adafruit/Adafruit_SSD1306 (OLED-Monochrom-Display)
 
 [Passendes Mikrocontrollermodul von AZ Delivery](https://www.az-delivery.de/products/d1-mini)
 
-[Thermoelement mit MAX6675 Breakout-Board (Beispiel)](https://www.amazon.de/Interface-Thermocouple-Temperature-0%C2%B0C-1024%C2%B0C-Compatible/dp/B073FNJDXW/ref=sr_1_1)
+[Thermoelement mit MAX6675 Breakout-Board (Amazon, als Beispiel)](https://www.amazon.de/Interface-Thermocouple-Temperature-0%C2%B0C-1024%C2%B0C-Compatible/dp/B073FNJDXW/ref=sr_1_1)
