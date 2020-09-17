@@ -18,9 +18,9 @@ https://github.com/adafruit/MAX6675-library (Temperatursensor für Thermoelement
 
 https://github.com/adafruit/Adafruit_SSD1306 (OLED-Monochrom-Display)
 
- Stückliste
+  Stückliste
  
- R1 4k7
- POTI 4k7 oder 10k
- C1 100n
- SSR Solid-State-Relais SSR-10 DA, SSR-25 DA oder ähnlich (min. 250V, 10A)
+  R1 4k7
+  POTI 4k7 oder 10k
+  C1 100n
+  SSR Solid-State-Relais SSR-10 DA, SSR-25 DA oder ähnlich (min. 250V, 10A)
