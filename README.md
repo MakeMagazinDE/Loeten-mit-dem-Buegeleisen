@@ -22,6 +22,8 @@ https://github.com/adafruit/Adafruit_SSD1306 (OLED-Monochrom-Display)
 
 Tragen Sie in der Arduino-IDE folgenden Link unter "Voreinstellungen" bei "Zusätzliche Boardverwalter-URLs" ein: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
+**Bitte beachten Sie unbedingt die Aufbau- und Sicherheitshinweise im Artikel!**
+
 ### Stückliste
  
     R1 4k7
@@ -31,6 +33,8 @@ Tragen Sie in der Arduino-IDE folgenden Link unter "Voreinstellungen" bei "Zusä
     OLED 0,96"-OLED-Display mit SSD1306 
     MAX6675 Temperatursensor-IC auf Breakout-Board
     THERMO Thermoelement Typ K, mit Schraubanschlüssen
+
+### Bezugsquellen
     
 [Passendes OLED-Display von Reichelt](https://www.reichelt.de/entwicklerboards-display-0-96-oled-display-ssd1306-debo-oled2-0-96-p266107.html)
 
@@ -42,4 +46,3 @@ Tragen Sie in der Arduino-IDE folgenden Link unter "Voreinstellungen" bei "Zusä
 
 [Thermoelement mit MAX6675 Breakout-Board (Amazon, als Beispiel)](https://www.amazon.de/Interface-Thermocouple-Temperature-0%C2%B0C-1024%C2%B0C-Compatible/dp/B073FNJDXW/ref=sr_1_1)
 
-**Bitte beachten Sie unbedingt die Aufbau- und Sicherheitshinweise im Artikel!**
