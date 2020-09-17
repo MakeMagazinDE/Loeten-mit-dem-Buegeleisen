@@ -26,6 +26,8 @@ Statt des aufgeklebten Sensors kann auch ein gekapselter Sensor mit Schraubgewin
 
 **Bitte beachten Sie unbedingt die Aufbau- und Sicherheitshinweise im Artikel!**
 
+![Picture](https://github.com/MakeMagazinDE/Loeten-mit-dem-Buegeleisen/blob/master/Bügeleisen_Platine_Schematics.jpg)
+
 ### Stückliste
  
     R1 4k7
