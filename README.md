@@ -54,7 +54,7 @@ Statt des aufgeklebten Sensors kann auch ein gekapselter Sensor mit Schraubgewin
 
 [Blog des Autors](https://www.makermoekoe.net/post/maker-moekoe-s-kind-of-soldering-iron)
 
-[Löten in der Pizzapfanne (kostenloser Artikel)(]https://www.heise.de/make/artikel/SMD-Loeten-in-der-Pizzapfanne-1276166.html)
+[Löten in der Pizzapfanne (kostenloser Artikel)](https://www.heise.de/make/artikel/SMD-Loeten-in-der-Pizzapfanne-1276166.html)
 
 [Schablonendrucker für SMD-Löter (kostenpflichtiger Artikel)](https://www.heise.de/select/make/2019/2/1555930729047830)
 
