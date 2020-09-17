@@ -14,11 +14,13 @@ Sourcen, Stückliste und Bezugsquellen für Artikel **[Make: 5/2020 S. 116](http
 
 Das Steuerungsprogramm *SolderingIron.ino* wurde mit der Arduino-IDE für das Mikrocontroller-Board Wemos Mini D1 (ESP8266) erstellt. Die Arduino-IDE benötigt folgende Erweiterungen:
 
-https://github.com/esp8266/Arduino (ESP8266-Erweiterung, auch über Board-Manager)
+https://github.com/esp8266/Arduino (ESP8266-Erweiterung, auch über Boardverwalter, s.u.)
 
 https://github.com/adafruit/MAX6675-library (Temperatursensor für Thermoelemente Typ K)
 
 https://github.com/adafruit/Adafruit_SSD1306 (OLED-Monochrom-Display)
+
+Tragen Sie in der Arduino-IDE folgenden Link unter "Voreinstellungen" bei "Zusätzliche Boardverwalter-URLs" ein: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
     Stückliste
  
