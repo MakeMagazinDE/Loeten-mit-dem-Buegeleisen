@@ -24,3 +24,5 @@ https://github.com/adafruit/Adafruit_SSD1306 (OLED-Monochrom-Display)
     POTI Potentiometer 4k7 oder 10k, 4mm-Achse, mit Knopf, ggf. Trimmpotentiometer
     C1 100n
     SSR Solid-State-Relais SSR-10 DA, SSR-25 DA oder ähnlich (min. 250V, 10A)
+
+[Passendes OLED-Display von Reichelt](https://www.reichelt.de/entwicklerboards-display-0-96-oled-display-ssd1306-debo-oled2-0-96-p266107.html)
