@@ -20,7 +20,7 @@ https://github.com/adafruit/MAX6675-library (Temperatursensor für Thermoelement
 
 https://github.com/adafruit/Adafruit_SSD1306 (OLED-Monochrom-Display)
 
-Tragen Sie in der Arduino-IDE folgenden Link unter "Voreinstellungen" bei "Zusätzliche Boardverwalter-URLs" ein: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+Tragen Sie in der Arduino-IDE unter "Voreinstellungen" bei "Zusätzliche Boardverwalter-URLs" folgenden Link ein: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 **Bitte beachten Sie unbedingt die Aufbau- und Sicherheitshinweise im Artikel!**
 
