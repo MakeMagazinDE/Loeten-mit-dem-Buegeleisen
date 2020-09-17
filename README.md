@@ -8,5 +8,5 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 ### DIY-Lötstation für SMD-Platinen
 
-![Picture](https://github.com/heise/MaXYposi/blob/master/maxyposi.JPG)
+![Picture](https://github.com/MakeMagazinDE/Loeten-mit-dem-Buegeleisen/blob/master/aufm.JPG)
 
