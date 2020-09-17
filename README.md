@@ -22,7 +22,7 @@ https://github.com/adafruit/Adafruit_SSD1306 (OLED-Monochrom-Display)
 
 Tragen Sie in der Arduino-IDE folgenden Link unter "Voreinstellungen" bei "Zusätzliche Boardverwalter-URLs" ein: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
-    Stückliste
+### Stückliste
  
     R1 4k7
     POTI Potentiometer 4k7 oder 10k, 4mm-Achse, mit Knopf, ggf. Trimmpotentiometer
