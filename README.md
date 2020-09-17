@@ -10,7 +10,7 @@ Maker Media GmbH und c't, Heise Zeitschriften Verlag
 
 ![Picture](https://github.com/MakeMagazinDE/Loeten-mit-dem-Buegeleisen/blob/master/aufm.JPG)
 
-Sourcen, Stückliste und Bezugsquellen für Artikel **[Make: 5/2020 S. 116](https://shop.heise.de/katalog/make-5-2020)**
+**Sourcen, Stückliste und Bezugsquellen für Artikel [Make: 5/2020 S. 116](https://shop.heise.de/katalog/make-5-2020)**
 
 Das Steuerungsprogramm *SolderingIron.ino* wurde mit der Arduino-IDE für das Mikrocontroller-Board Wemos Mini D1 (ESP8266) erstellt. Die Arduino-IDE benötigt folgende Erweiterungen:
 
