@@ -22,6 +22,8 @@ https://github.com/adafruit/Adafruit_SSD1306 (OLED-Monochrom-Display)
 
 Tragen Sie in der Arduino-IDE unter "Voreinstellungen" bei "Zusätzliche Boardverwalter-URLs" folgenden Link ein: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
+Statt des aufgeklebten Sensors kann auch ein gekapselter Sensor mit Schraubgewinde verwendet werden (siehe Bezugsquelle). Es ist dann an geeigneter Stelle eine Gewindebohrung in der Bügeleisen-Sohle anzubringen (vorsicht, nicht versehentlich das Heizelement beschädigen).
+
 **Bitte beachten Sie unbedingt die Aufbau- und Sicherheitshinweise im Artikel!**
 
 ### Stückliste
@@ -46,3 +48,6 @@ Tragen Sie in der Arduino-IDE unter "Voreinstellungen" bei "Zusätzliche Boardve
 
 [Thermoelement mit MAX6675 Breakout-Board (Amazon, als Beispiel)](https://www.amazon.de/Interface-Thermocouple-Temperature-0%C2%B0C-1024%C2%B0C-Compatible/dp/B073FNJDXW/ref=sr_1_1)
 
+### Sonstiges
+
+[Blog des Autors](https://www.makermoekoe.net/post/maker-moekoe-s-kind-of-soldering-iron)
