@@ -20,7 +20,7 @@ https://github.com/adafruit/MAX6675-library (Temperatursensor für Thermoelement
 
 https://github.com/adafruit/Adafruit_SSD1306 (OLED-Monochrom-Display)
 
-Tragen Sie in der Arduino-IDE unter "Voreinstellungen" bei "Zusätzliche Boardverwalter-URLs" folgenden Link ein: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+Tragen Sie in der Arduino-IDE unter "Voreinstellungen" bei "Zusätzliche Boardverwalter-URLs" folgenden Link ein: http://arduino.esp8266.com/stable/package_esp8266com_index.json und wählen Sie unter "Werkzeuge/Board" den Eintrag "WeMos D1 R1".
 
 Statt des aufgeklebten Sensors kann auch ein gekapselter Sensor mit Schraubgewinde verwendet werden (siehe Bezugsquelle). Es ist dann an geeigneter Stelle eine Gewindebohrung in der Bügeleisen-Sohle anzubringen (Vorsicht, nicht versehentlich das Heizelement beschädigen).
 
