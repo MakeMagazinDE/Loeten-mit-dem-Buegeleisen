@@ -52,7 +52,7 @@ Statt des aufgeklebten Sensors kann auch ein gekapselter Sensor mit Schraubgewin
 
 ### Sonstiges
 
-[Blog des Autors](https://www.makermoekoe.net/post/maker-moekoe-s-kind-of-soldering-iron)
+[Blog des Autors](https://makermoekoe.com/2020/04/28/maker-moekoes-kind-of-soldering-iron/)
 
 [Löten in der Pizzapfanne (kostenloser Artikel)](https://www.heise.de/make/artikel/SMD-Loeten-in-der-Pizzapfanne-1276166.html)
 
